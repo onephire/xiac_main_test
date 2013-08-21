@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">xiac_main_test</string>
+    <string name="defaultIPTextHint">Enter IP</string>
+    <string name="title_activity_main">Main</string>
+    <string name="action_settings">Settings</string>
+    <string name="defaultIPDialogButton">OK</string>
+    <string name="defaultIPDialogLabel">Please enter the IP address of any peer in the network you wish to join</string>
+
+</resources>
